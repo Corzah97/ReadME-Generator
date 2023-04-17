@@ -68,9 +68,17 @@
 
  MIT
 
+ ## Screenshot
+
+ ![Front Page](/ReadME-Generator/Develop/images/ReadME%20Screenshot.png)
+
+ ## Mock-Up
+![A user clicks on search to search for weather at their location.](/ReadME-Generator/Develop/images/README.gif.gif)
+
  ## Walkthrough 
 
  [Link](https://drive.google.com/file/d/1xbJPuU1JdNtnRTTSMYnL05LvvHoD6ODQ/view?usp=share_link)
+ 
 
  ## Test
 
@@ -82,7 +90,7 @@
 
  ## Contributions
 
- 
+ Created By Corey Boughton
 
  ## Questions
 
