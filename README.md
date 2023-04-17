@@ -70,10 +70,10 @@
 
  ## Screenshot
 
- ![Front Page](/ReadME-Generator/Develop/images/ReadME%20Screenshot.png)
+ ![Front Page](/Develop/images/ReadME%20Screenshot.png)
 
  ## Mock-Up
-![A user clicks on search to search for weather at their location.](/ReadME-Generator/Develop/images/README.gif.gif)
+ ![Photo](/Develop/images/README.gif)
 
  ## Walkthrough 
 
